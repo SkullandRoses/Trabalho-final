@@ -1,0 +1,22 @@
+Requisitos para Projeto de TCC
+
+Documento de Requisitos
+
+Requisitos funcionais
+1. Registrar TCC.
+2. Registrar atualização do TTC.
+3. Realizar cadastro dos Alunos e grupo do projeto.
+4. Realizar o controle de entrega dos trabalhos.
+5. Gerenciar prazo de entrega.
+6. Notificação de professores e orientador.
+7. Coleta de Avaliação feita pelos professores
+Requisitos suplementares
+1. O sistema deve operar via interface Web
+2. Todos os controles de interface devem ter um campo de ajuda associado.
+3. ...
+Restrições lógicas:
+Não há.
+Restrições tecnológicas:
+1. Deve ser usado o sistema de interface baseado nos codigos de HTML, CSS e JAVASCRIPT
+2. Interface deve ser dinâmica e objetiva
+3. ...
