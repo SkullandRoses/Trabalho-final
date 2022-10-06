@@ -1,0 +1,12 @@
+APENDICÊ A - Controle de entrega de avaliação de documentos de trabalhos de conclusão 
+de curso
+O projeto será uma página que servirá como repositório para trabalhos de conclusão de 
+curso, com controle de entrega e avaliação dos documentos. Dois tipos de usuários irão 
+acessar a plataforma, alunos e professores, alunos irão anexar seu trabalho de conclusão de 
+curso, e os professores terão acesso as tabelas de documentos, contendo as informações 
+dos alunos e seus anexos. Será desenvolvido com aplicações serverless integrado ao SQL, 
+uma plataforma em HTML de fácil acesso ao usuário, com tela inicial, seguido da seção de 
+autenticação de cadastros, incluindo menu do usuário. O usuário aluno terá acesso a tela de 
+controle de documentos, onde poderá verificar seus anexos, onde já inclui o acesso a sessão 
+para anexo de novos trabalhos de conclusão de curso. Os trabalhos assim que postados, 
+serão armazenados no banco de dados de acordo com o id e informações do usuário
